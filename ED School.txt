@@ -1,0 +1,449 @@
+ED School of Animation
+
+Home
+
+The Future of Creativity is You.
+
+Ready to turn your passion into your profession? ED School of Animation is where raw talent meets elite training. Our hands-on courses are your direct launchpad into the global entertainment industry. Learn from experts, master the tools, and start your creative career today.
+[Button: Explore Our Courses] [Button: Watch Our Showreel]
+
+
+About ED School of Animation
+
+Mission
+To empower the next generation of digital artists and storytellers by providing a dynamic, industry-focused education. We bridge the gap between creative passion and professional excellence, equipping students with the artistic fundamentals, technical mastery, and collaborative skills needed to thrive in the global animation and VFX industries.
+Vision
+To be a globally recognized crucible of creativity and innovation, shaping the future of visual storytelling. We aspire to cultivate a vibrant community where fearless artists and tech pioneers collaborate to produce groundbreaking work, setting new standards of excellence and becoming the most sought-after talent in the international entertainment industry.
+About ED School of Animation
+Learn from the Artists Behind Hollywood's Biggest Hits.
+
+For over 25 years, our founders have been at the heart of the global animation and visual effects industry. They've crafted breathtaking visuals, pushed the boundaries of technology, and contributed to iconic films and series for Hollywood's most legendary production houses.
+But through this journey, they noticed a gap—a gap between traditional classroom theory and the fast-paced, high-stakes demands of a real-world studio.
+ED School of Animation was born from a single, powerful mission: to close that gap and forge the next generation of industry-ready creative professionals.
+ 
+[Image: A sleek, modern shot of the studio's interior or a candid photo of the core team mentoring students.]
+
+More Than a School: A Direct Pipeline to the Industry
+
+What makes ED School of Animation truly unique is our DNA. We are not just educators; we are active creators. Our core team also operates a major international production house, a thriving studio of over 200+ professional artists creating world-class content right now.
+Our artists are in the trenches, producing blockbuster-quality animation and VFX for the biggest names in entertainment, including:
+●	Paramount
+●	Disney+
+●	Amazon Studios
+●	Netflix
+●	Lionsgate
+●	Warner Bros.
+
+This isn't just our history; it's our present. Our studio is TPN (Trusted Partner Network) Audited, a prestigious certification that signifies the gold standard for content security and professionalism, demanded by the world’s leading studios.
+Join us, and start your journey from passion to profession. [Button: Explore Our Industry-Led Courses]
+
+
+Courses
+Diploma in 3D Animation
+
+Transform your imagination into breathtaking visuals. This intensive one-year diploma is your complete journey through the professional 3D animation pipeline, designed to make you industry-ready.
+[Image: A dynamic shot of a character inside Maya, showcasing detailed environments and characters.]
+This program is your launchpad into the world of computer-generated imagery. We've structured this course to mirror the workflow of our own major production house, focusing on the essential skills and software that studios demand. Guided by mentors with decades of Hollywood experience, you will go from the fundamentals of modeling to creating a polished, portfolio-ready animated shot.
+
+
+Course Structure & Key Modules
+ 
+Our curriculum is designed to build your skills logically and comprehensively over 12 months.
+●	Module 1: Foundations of 3D Creation You'll start by mastering the Autodesk Maya interface, learning to navigate 3D space, and understanding the core principles of polygonal modeling. We'll dive deep into the 12 Principles of Animation, the timeless rules that bring characters and objects to life.
+●	Module 2: Advanced Modeling & Texturing Create everything from props and environments to complex organic characters. You will learn professional UV mapping techniques before mastering Adobe Substance Painter, the industry's top software for creating stunning, photorealistic textures and materials. Adobe Photoshop will be used to create and refine custom textures.
+●	Module 3: Rigging & Character Animation Bring your creations to life. This module covers the essentials of character rigging—building the digital skeleton and control systems for animation. You will then focus on performance, mastering body mechanics, character acting, and lip-sync to create believable, emotive animations.
+●	Module 4: Lighting, Rendering & Compositing Learn the art and science of cinematic lighting to create mood and depth in your scenes. You'll render your work using industry-standard renderers within Maya and then move to Adobe After Effects for the final, crucial step of compositing—combining render passes, color grading, and adding effects to produce a polished final shot.
+●	Module 5: Portfolio Development In the final module, you will apply all your acquired skills to a capstone project. Under the direct guidance of a mentor, you will create a high-quality animation piece designed to be the star of your professional demo reel, your key to landing your first job.
+
+
+Software You Will Master
+
+You will gain proficiency in the complete suite of tools used by top studios worldwide:
+
+●	Autodesk Maya: The undisputed industry standard for 3D modeling, animation, rigging, and rendering in film, TV, and gaming.
+●	Adobe Substance Painter: The ultimate tool for 3D texturing and material authoring, allowing for unparalleled realism and artistic control.
+●	Adobe After Effects: The essential software for post-production, enabling you to composite, add visual effects, and give your animation its final cinematic polish.
+●	Adobe Photoshop: The foundational tool for all digital artists, used for concept art, texture painting, and matte painting.
+
+
+Career Opportunities
+
+A diploma from ED School of Animation opens doors to a wide range of creative and technical roles in the entertainment industry. With a strong portfolio developed during this course, you will be qualified to pursue careers such as:
+ 
+●	3D Animator
+●	3D Modeler (Character, Environment, or Prop Artist)
+●	Texture Artist
+●	Lighting Artist
+●	Rigging Artist
+●	Compositing Artist
+●	Junior 3D Generalist
+
+These roles are vital in animation studios, visual effects (VFX) houses, video game companies, and advertising agencies.
+[Button: Download Course Brochure] [Button: Speak to an Advisor]
+
+
+Diploma in Game Design
+Go beyond watching—start creating. This intensive one-year diploma is your ultimate guide to designing and building the interactive worlds and unforgettable characters that define modern video games.
+[Image: A dynamic shot of a playable game level inside Unreal Engine, showcasing detailed environments and characters.]
+This program is crafted for the next generation of game creators. Moving beyond linear animation, this course immerses you in the complete game asset pipeline, from initial concept in Photoshop to a fully realized, playable environment in Unreal Engine. Taught by industry veterans who have contributed to major game titles, you'll learn the art, technology, and design principles required to build the games of the future.
+
+
+Course Structure & Key Modules
+
+Our curriculum is a 12-month, project-based journey designed to build a powerful, game-centric portfolio.
+●	Module 1: Foundations of Game Design & Asset Creation Begin with the core principles of what makes a game fun: game mechanics, level design theory, and player experience. Simultaneously, you will start creating game-ready assets in Autodesk Maya, focusing on efficient, low-poly modeling techniques essential for real-time performance.
+●	Module 2: Environment & Prop Art for Games Build the worlds players will explore. You will learn to model, UV map, and texture a wide range of environmental assets. Master Adobe Substance Painter to create realistic, physically-based rendering (PBR) materials, and use Adobe Photoshop to develop concepts and unique textures.
+ 
+●	Module 3: Character & Creature Creation Design and build the heroes and villains of your game. This module covers the complete character art pipeline: sculpting, retopology for animation, texturing for realism, and creating game-optimized rigs in Maya.
+●	Module 4: Mastering Unreal Engine This is where your assets come to life. You will be introduced to the powerful Unreal Engine, learning to import your creations, build materials, set up dynamic lighting, and construct game levels using professional world-building techniques.
+●	Module 5: Interactivity & Gameplay Mechanics Make your world interactive. Using Unreal's intuitive Blueprint visual scripting system, you will learn to create basic gameplay mechanics, trigger events, design simple UI, and craft cinematic sequences—no complex coding required.
+●	Module 6: Capstone Game Project In your final module, you will design and build a complete, playable game level. This capstone project will serve as the centerpiece of your professional portfolio, showcasing your comprehensive skills in modeling, texturing, level design, and engine implementation to future employers.
+
+
+Software You Will Master
+
+You will gain expert-level skills in the essential software that powers today's top game development studios:
+●	Unreal Engine: The world's most open and advanced real-time 3D creation tool, used for developing everything from indie hits to AAA blockbusters.
+●	Autodesk Maya: The industry-standard 3D software for creating game-ready characters, animations, and environments.
+●	Adobe Substance Painter: The leading platform for creating smart, dynamic PBR textures that bring incredible realism to game assets.
+●	Adobe Photoshop: The essential tool for concept art, UI design, and crafting unique textures from scratch.
+
+
+Career Opportunities
+
+The video game industry is a booming global market, and graduates with these skills are in constant demand. With a strong portfolio from this program, you can pursue exciting careers as a:
+●	3D Environment Artist
+●	Character Artist
+●	Prop Artist
+●	Texture Artist
+●	Level Designer
+●	Lighting Artist for Games
+●	Junior Technical Artist
+●	3D Game Artist / Generalist
+ 
+These roles are found at major game studios, indie developers, and companies working on architectural visualization and interactive simulations.
+[Button: Download Course Brochure] [Button: Speak to an Advisor]
+
+
+
+Certification in Compositing
+
+Master the final step of all visual effects. This focused six-month certification trains you to become a compositor, the artist responsible for seamlessly blending live-action footage and computer-generated imagery into a single, believable shot.
+[Image: A dynamic shot of a film inside Nuke, showcasing detailed environments and characters.]
+Compositing is where the magic of VFX truly comes together. This intensive program is designed to equip you with the technical and artistic skills needed to excel in this highly sought-after specialization. You will learn the entire post-production workflow, from preparing plates to final color grading, using the exact software that powers Hollywood’s biggest blockbusters.
+
+
+Course Structure & Key Modules
+
+This accelerated program is built to develop your skills from the ground up over six months.
+
+●	Module 1: Foundations of Nuke Dive into the powerful node-based workflow of The Foundry's Nuke. You'll master the interface and fundamental concepts like color space, channel management, and transformations that are the bedrock of all
+high-end compositing.
+●	Module 2: Rotoscoping & Planar Tracking Learn to isolate any element within a shot with precision. This module covers advanced rotoscoping techniques and introduces you to Mocha Pro, the industry-standard tool for planar tracking, perfect for screen replacements and complex object removal.
+●	Module 3: Advanced Keying & Color Matching Master the art of greenscreen and bluescreen compositing. You’ll learn to pull perfect keys using Nuke’s world-class keyers and use advanced color correction tools to flawlessly match foreground elements with new backgrounds.
+●	Module 4: 2.5D Compositing & Matte Painting Integration Create depth and dimension by building virtual sets. You'll learn camera projection techniques in Nuke, using matte paintings and textures created in Adobe Photoshop to extend sets and create epic, sweeping environments.
+●	Module 5: CGI & Live-Action Integration This is the ultimate test of a compositor. Learn to work with multi-pass CGI renders, giving you complete control over lighting, reflections, and shadows to seamlessly integrate animated characters and objects into live-action footage.
+ 
+●	Module 6: Professional Showreel Development In your final module, you will focus entirely on creating a dynamic showreel of 3-4 high-quality shots. This reel will demonstrate your technical and artistic abilities to recruiters and will be your key to entering the VFX industry.
+
+
+Software You Will Master
+
+You will specialize in the essential tools that define the professional compositing pipeline.
+
+●	The Foundry's Nuke: The undisputed, node-based industry standard for compositing in film and high-end television.
+●	Boris FX Mocha Pro: The Academy Award-winning software for planar tracking, rotoscoping, and object removal.
+●	Adobe Photoshop: The essential application for creating, cleaning, and preparing visual elements like matte paintings and textures for use in Nuke.
+
+
+Career Opportunities
+
+This specialized certification prepares you for critical roles within the VFX pipeline at studios around the world. Graduates are qualified for positions such as:
+●	Junior Compositor
+●	Junior Digital Artist
+●	Junior VFX Artist
+
+[Button: Download Course Brochure] [Button: Speak to an Advisor]
+
+
+Certification in Rotomation
+
+Become the essential link between live-action and CGI. This specialized six-month certification trains you in Rotomation—the meticulous art of matching 3D character animation to the performance of a live-action actor, frame by painstaking frame.
+[Image showing a split screen: one side has a live-action actor, the other has a wireframe CGI character perfectly overlaid]
+Rotomation is a critical, high-demand skill in the visual effects industry, ensuring that digital characters interact realistically with the real world. This intensive program focuses on the precise technical and artistic skills needed to create seamless integration between CGI and live footage, using the premier software trusted by top VFX studios.
+
+ 
+Course Structure & Key Modules
+
+This focused program is designed to make you a specialist in 6 months.
+
+●	Module 1: Foundations of Matchmove in 3D-Equalizer Before animating a character, you must understand the camera that filmed it. You'll begin by mastering
+3D-Equalizer, the industry's leading software for camera tracking, learning to solve camera motion and recreate it in a 3D environment.
+●	Module 2: Object Tracking & Scene Preparation Advance from tracking cameras to tracking moving objects and actors within the scene. You'll learn to export this precise tracking data and use it to set up a perfectly aligned 3D scene in Autodesk Maya.
+●	Module 3: Working with Professional Rigs in Maya Get hands-on with the complex digital puppets used in major productions. This module teaches you to understand and manipulate professional character rigs in Maya, preparing you for the detailed animation process.
+●	Module 4: The Core Rotomation Workflow This is the heart of the course. You will learn the methodical process of animating a 3D character to perfectly match an actor's performance. This involves intense focus on silhouettes, body mechanics, weight, and contact points with the environment.
+●	Module 5: Advanced Problem-Solving Tackle the real-world challenges that rotomation artists face daily, such as solving for motion blur, dealing with partial occlusions, and animating complex interactions with props and other characters.
+●	Module 6: Professional Showreel Development You will complete the program by creating a focused showreel of several complex shots. This reel will showcase your precision and skill to potential employers, highlighting your ability to produce seamless character integration.
+
+
+Software You Will Master
+
+You will become an expert in the definitive tools for tracking and character animation in the VFX pipeline.
+●	Science-D-Visions' 3D-Equalizer: The gold standard for 3D camera and object tracking, used on nearly every major VFX film to establish the foundation of a shot.
+●	Autodesk Maya: The essential 3D animation software where you will spend your time meticulously animating character rigs to match live-action performances.
+
+
+Career Opportunities
+
+This certification opens the door to highly specific and crucial roles within the VFX pipeline. Studios are in constant need of artists with these skills for blockbuster films and series.
+Graduates are qualified for positions such as:
+
+●	Rotomation Artist
+●	Matchmove Artist
+ 
+●	3D Tracking / Layout Artist
+●	Creature FX Artist (entry-level)
+●	Technical Animator
+
+[Button: Download Course Brochure] [Button: Speak to an Advisor]
+
+
+Of course. Here is a professional overview for the Certification in Paint & Prep course.
+
+
+Certification in Paint & Prep
+
+Become the unsung hero of visual effects. This focused six-month certification trains you in Paint & Prep, the essential and meticulous craft of creating the perfect canvas for every VFX shot.
+[Image showing a before-and-after split screen: one side has a film set with wires and rigs, the other has a perfectly clean plate with all unwanted elements removed.]
+Before any stunning visual effect can be added, the original footage must be flawless. Paint & Prep is the art of digitally removing wires, safety harnesses, logos, camera rigs, and any other unwanted elements from live-action plates. It is the foundational skill upon which all believable compositing is built. This intensive program will make you an expert in the tools and techniques required to clean and prepare footage to the highest professional standard.
+
+
+Course Structure & Key Modules
+
+This accelerated program is designed to make you a specialist in the invisible art of VFX in 6 months.
+●	Module 1: Foundations of Digital Cleanup You'll begin in Adobe Photoshop, mastering the core techniques of digital cleaning on still frames. This includes clone stamping, dust-busting, texture rebuilding, and creating "clean plates"—a pristine version of the background that is crucial for object removal.
+●	Module 2: Sequence-Based Painting in Nuke Transition from still images to moving footage inside The Foundry's Nuke. You will learn to use Nuke's powerful paint and roto tools to apply fixes consistently across entire sequences, ensuring your work is seamless and undetectable.
+●	Module 3: Accelerated Workflows with Mocha Pro Discover the power of planar tracking for prep tasks. You'll master Mocha Pro to track surfaces like walls, vehicles, and clothing, allowing you to perform complex removals and paintwork with incredible speed and precision.
+●	Module 4: Advanced Wire & Rig Removal This module focuses on the most common task for a Prep Artist. You will learn multiple advanced techniques for removing
+ 
+complex wires, harnesses, and on-set equipment from challenging shots, including rebuilding the intricate background detail hidden behind them.
+●	Module 5: Temporal Painting & Clean Plate Projection Go beyond frame-by-frame fixes. Learn to borrow pixels from different points in time to paint out unwanted elements. You will also use Nuke's 3D projection system to apply a single clean plate across a moving shot, a core technique for complex removals.
+●	Module 6: Professional Showreel Development You will complete the course by creating a powerful "before-and-after" showreel. This is the industry-standard format for showcasing your skills and will feature several shots demonstrating your ability to solve complex cleanup challenges.
+
+
+Software You Will Master
+
+You will specialize in the essential toolset for every professional Paint & Prep Artist.
+
+●	The Foundry's Nuke: The primary node-based environment for sequence painting, rotoscoping, and integrating your cleanup work back into the final shot.
+●	Boris FX Mocha Pro: The award-winning software for planar tracking, dramatically speeding up the process of removing unwanted objects from moving footage.
+●	Adobe Photoshop: The foundational tool for high-detail, frame-by-frame cleanup and the creation of pristine, high-resolution clean plates.
+
+
+Career Opportunities
+
+This certification provides one of the most direct and reliable entry points into the VFX industry. Every major studio requires a team of skilled Prep Artists. Graduates are qualified for positions such as:
+●	Paint & Prep Artist
+●	Cleanup Artist
+●	Roto Artist
+●	Junior Compositor (many compositing careers begin in Paint & Prep) [Button: Download Course Brochure] [Button: Speak to an Advisor]
+Of course. Here is a professional overview for the Certification in Match-move course.
+
+
+Certification in Match-move
+
+Build the bridge between the real world and the digital one. This specialized six-month certification trains you in Match-move, the critical process of precisely recreating the live-action camera's movement and properties within a 3D environment.
+ 
+[Image showing a film plate on one side, and the corresponding 3D scene in Maya with the camera path and point cloud on the other.]
+No computer-generated element can look real until it perfectly matches the world it's placed in. Match-move is the foundational step that makes this possible, ensuring every CGI character, vehicle, or explosion respects the perspective, scale, and motion of the original footage. This intensive program will make you an expert in the technical art of 3D tracking, using the gold-standard software demanded by the global VFX industry.
+
+
+Course Structure & Key Modules
+
+This focused program is designed to make you a technical specialist in 6 months.
+
+●	Module 1: Foundations of 3D Tracking You'll start by mastering 3D-Equalizer, the industry's most powerful camera tracking software. This module covers the core principles of photogrammetry, lens distortion, and how to analyze footage to achieve a solid initial track.
+●	Module 2: Advanced Camera & Object Solving Tackle the complex shots that professionals face daily. You'll learn manual tracking techniques, how to solve for difficult camera motion like nodal pans, and the complete workflow for tracking rigid moving objects within a scene.
+●	Module 3: Scene Assembly & Layout in Maya A successful track is only half the battle. You will learn to export your solve data into Autodesk Maya, where you will build proxy geometry and lay out a digital scene that perfectly aligns with the
+real-world environment, ensuring accurate scale and object placement.
+●	Module 4: Lens Distortion & Advanced Workflows Dive deep into the science of cinematic lenses. You will learn how to calculate and apply complex lens distortion grids, a crucial step for seamless integration. You’ll also explore workflows for anamorphic and spherical lenses.
+●	Module 5: Quality Control (QC) in Nuke The final and most important step is validation. You will learn to bring your solved camera and 3D scene into The Foundry's Nuke. Here, you will rigorously test your track against the original footage, learning to spot and fix any slips, jitters, or inaccuracies to deliver a pixel-perfect result.
+●	Module 6: Professional Showreel Development You will complete the course by building a technical showreel demonstrating your ability to solve a variety of difficult shots. Your reel will showcase both the raw tracking data and the final 3D lineup, proving your precision and problem-solving skills to recruiters.
+
+
+Software You Will Master
+
+You will become an expert in the definitive toolset for the professional Match-move pipeline.
+
+●	Science-D-Visions' 3D-Equalizer: The undisputed industry leader for 3D camera and object tracking, celebrated for its precision and power.
+ 
+●	Autodesk Maya: The essential 3D application for building proxy environments, aligning geometry to the track, and preparing the scene for other VFX departments.
+●	The Foundry's Nuke: The critical compositing tool used for rigorously
+quality-checking your track against the original plate to ensure flawless accuracy.
+
+
+Career Opportunities
+
+This certification opens the door to some of the most technical and essential roles in the VFX pipeline. Every shot with CGI integration requires a Match-move artist. Graduates are qualified for positions such as:
+●	Match-move Artist
+●	3D Tracking Artist / Tracker
+●	Layout Artist
+●	Scene Integration Artist
+●	Integration TD
+
+[Button: Download Course Brochure] [Button: Speak to an Advisor]
+Of course. Here is a professional overview for the Certification in Rotoscopy course.
+
+
+Certification in Rotoscopy
+
+Master the fundamental skill of visual effects. This accelerated three-month certification is your direct path to becoming a Roto Artist, learning the meticulous art of creating perfect digital masks to isolate any element in a shot.
+[Image showing a complex shot of a character in motion, with the clean, precise spline shapes of a rotoscope matte highlighted around them.]
+Rotoscopy is the frame-by-frame process of tracing over footage to create a matte, which is essential for nearly all compositing tasks. It is a discipline that demands patience, precision, and a keen eye. This intensive program is designed to make you a master of this craft, providing you with one of the fastest and most reliable entry points into the professional VFX industry.
+
+
+Course Structure & Key Modules
+
+This express program is designed to make you a hireable specialist in just 3 months.
+
+●	Module 1: Foundations of Rotoscoping in Silhouette You will dive directly into Boris FX Silhouette, the Academy Award-winning software that is the global standard for
+ 
+professional rotoscoping. This module covers the core principles of creating and manipulating splines, point management, and developing a clean, efficient workflow for static and simple moving objects.
+●	Module 2: Advanced Techniques & Accelerated Workflows Tackle the challenges that separate amateurs from professionals. You will learn to rotoscope complex, articulated objects like characters and creatures, as well as difficult elements like hair, fabric, and motion blur. You will also integrate Mocha Pro’s powerful planar tracking to dramatically increase your speed and accuracy.
+●	Module 3: Quality Control & Professional Showreel A perfect matte is one that works flawlessly in the final composite. You will learn to export your work and test its quality in The Foundry’s Nuke, ensuring clean edges and correct motion blur. The final weeks are dedicated to creating a professional showreel that demonstrates your precision on a variety of challenging shots.
+
+
+Software You Will Master
+
+You will specialize in the definitive toolset used by every major VFX studio for rotoscoping.
+
+●	Boris FX Silhouette: The undisputed industry-leading application for professional rotoscoping and paint, celebrated for its powerful and artist-friendly tools.
+●	The Foundry's Nuke: The essential compositing software used to rigorously test and quality-check your roto mattes to ensure they meet professional standards.
+●	Boris FX Mocha Pro: The award-winning planar tracker, used within Silhouette to accelerate your workflow and handle the most complex rotoscoping challenges.
+
+
+Career Opportunities
+
+This certification is one of the most direct pathways into the production pipeline of major VFX studios, which are in constant need of skilled roto artists. Graduates are immediately qualified for roles such as:
+●	Roto Artist
+●	Rotoscoping Artist
+●	Matte Extraction Artist
+●	Junior Compositor (as roto is a foundational skill for all compositors) [Button: Download Course Brochure]
+[Button: Speak to an Advisor] Certification in Editing
+Master the art of storytelling. This accelerated three-month certification is your complete guide to the world of professional video editing, teaching you to shape raw footage into compelling, polished, and emotionally impactful narratives.
+ 
+[Image showing timeline and video monitor interface in FCP]
+
+
+
+Editing is where a story truly comes to life. It’s the invisible art of pacing, rhythm, and emotion that determines the final impact of any film, TV show, or online video. This intensive program is designed to make you a confident and creative editor, giving you a complete command of Apple’s Final Cut Pro and the timeless principles of narrative construction.
+
+
+Course Structure & Key Modules
+
+This express program is designed to make you a proficient editor in just 3 months.
+
+●	Module 1: Foundations of Post-Production You will dive straight into the professional non-linear editing workflow. This module covers the core of Final Cut Pro, from its revolutionary library-based media management to mastering the magnetic timeline. You’ll learn to organize, import, and assemble footage, creating rough cuts and understanding the technical language of a professional editor.
+●	Module 2: The Art of the Cut & Sound Design Go beyond simple assembly and learn to edit with purpose. This module focuses on the creative techniques that define great editing: J-cuts, L-cuts, cutting on action, and controlling pace to build tension or evoke emotion. You will also learn the critical skill of audio editing—cleaning dialogue, mixing music, and using sound effects to create a rich, immersive soundscape.
+●	Module 3: Colour, Effects, and Final Delivery This is where you add the final professional polish. You will learn the fundamentals of colour correction and grading to fix issues and create distinct cinematic looks. You'll also work with titles, basic effects, and learn to export your projects in various formats for broadcast, web, and social media. The course culminates in creating a dynamic showreel to showcase your new skills to clients and employers.
+
+
+Software You Will Master
+
+You will specialize in one of the most powerful and intuitive editing platforms in the industry.
+
+●	Apple's Final Cut Pro: A leading professional non-linear editing software renowned for its incredible performance, robust organizational tools, and artist-friendly interface. It is the tool of choice for a vast number of independent filmmakers, content creators, and broadcast professionals worldwide.
+
+
+Career Opportunities
+ 
+Strong editing skills are in high demand across the entire media landscape. This certification prepares you for a wide range of opportunities in post-production and content creation.
+Graduates are qualified for roles such as:
+
+●	Video Editor
+●	Assistant Editor
+●	Content Creator / YouTuber
+●	Promo & Social Media Editor
+●	Junior Documentary Editor
+●	Post-Production Assistant [Button: Download Course Brochure] [Button: Speak to an Advisor]
+
+
+
+
+
+Certification in Drawing
+
+Master the essential language of all visual art. This intensive 45-day certification is a foundational boot camp designed to build your artistic skills from the ground up, teaching you to see the world like an artist and translate your vision onto paper.
+[Image showing pencil drawing on a paper]
+
+Drawing is the bedrock of all creative disciplines, from animation and game design to illustration and fine art. Before you can master any software, you must first master the fundamentals of form, perspective, light, and shadow. This course is crafted to give you that core strength, providing the confidence and skill needed to pursue any artistic path.
+
+
+Course Structure & Key Modules
+
+This express program is a day-by-day journey to build your artistic foundation.
+
+●	Module 1: The Fundamentals of Seeing & Mark-Making You'll begin by training your most important artistic tool: your eyes. This module covers the basics of hand-eye coordination, line control, understanding positive/negative space, and learning to deconstruct complex objects into simple shapes.
+●	Module 2: Perspective, Form, & Structure Learn the rules that create believable depth and dimension. You will master one, two, and three-point perspective to construct convincing environments. You'll also learn how to build any object, from simple props to complex vehicles, using foundational geometric forms.
+●	Module 3: Mastering Light & Shadow This is where your drawings gain realism and impact. You will learn the core principles of lighting to create a powerful sense of
+ 
+volume, form, and mood. This module covers value, shading techniques, understanding form shadows, cast shadows, and rendering different surface textures.
+●	Module 4: Introduction to Figure & Composition As a capstone, you will be introduced to the basics of gesture drawing and human anatomy to bring life and energy to your figures. You will also learn the fundamental rules of composition to arrange elements in a visually compelling and balanced way.
+
+
+Skills You Will Master
+
+This course focuses on timeless artistic skills, not software. You will develop a strong command of:
+●	Observational Drawing: The ability to accurately draw what you see.
+●	Perspective: Creating the illusion of three-dimensional space.
+●	Constructive Drawing: Building complex subjects from simple shapes.
+●	Shading & Rendering: Using light and shadow to create form and texture.
+●	Composition: Arranging elements for maximum visual impact.
+●	Basic Anatomy & Gesture: Capturing the life and movement of the human form.
+
+
+Who Should Enroll?
+
+This certification is the essential starting point for anyone serious about a creative career. It is perfect for:
+●	Absolute beginners who have never drawn before.
+●	Aspiring animators, game artists, and illustrators who need to build a strong foundation.
+●	Digital artists who want to strengthen their traditional skills. [Button: Download Course Brochure]
+[Button: Speak to an Advisor]
+
+
+
+Certification in Generative AI
+
+Step into the future of creativity. This intensive 45-day certification is a hands-on guide to Generative AI, designed to empower artists, designers, and storytellers to collaborate with artificial intelligence to create stunning visuals, narratives, and new forms of media.
+[Image showing a creative professional's screen with a montage of AI-generated images, text prompts, and short video clips.]
+Generative AI is the next technological revolution in the creative industries. It's a powerful new partner that can accelerate workflows, inspire groundbreaking ideas, and open up
+ 
+entirely new artistic possibilities. This course moves beyond the theory and dives straight into practical application, teaching you how to master the art of the prompt and integrate AI tools seamlessly into a professional creative pipeline.
+
+
+Course Structure & Key Modules
+
+This express program will get you up to speed with the most important creative AI tools and workflows in just 45 days.
+●	Module 1: The Art of the Prompt & AI Ideation You'll begin by mastering the most crucial skill in the AI landscape: Prompt Engineering. Learn how to write effective, nuanced text prompts to command AI models. You will use Large Language Models (LLMs) like ChatGPT for brainstorming scripts and ideas, and dive into Midjourney for rapid, high-quality concept art and visual exploration.
+●	Module 2: Advanced Image Generation & Control Gain precise control over your creations. This module introduces you to the power of Stable Diffusion, where you will learn advanced techniques like ControlNet to dictate character poses and composition, inpainting/outpainting to edit specific parts of an image, and training custom models (LoRAs) on your own artistic styles.
+●	Module 3: AI for Motion, Video & Sound Explore the cutting edge of generative media. You will use platforms like RunwayML and Pika to generate short video clips from simple text prompts (text-to-video) and still images (image-to-video). You will also experiment with AI audio tools to generate soundtracks, sound effects, and voice-overs.
+●	Module 4: Integrating AI into a Creative Pipeline This capstone module brings everything together. You will learn a complete end-to-end workflow: ideate a story with ChatGPT, create concept art in Midjourney, refine character designs with Stable Diffusion, and produce an animated storyboard using AI video tools. The course will also cover the critical topic of the ethical use of AI in creative work.
+
+
+Tools & Platforms You Will Explore
+
+You will gain practical experience with the most influential and powerful generative AI tools available today.
+●	Midjourney: For world-class image generation and rapid artistic ideation.
+●	Stable Diffusion: For maximum control, customisation, and advanced image editing.
+●	ChatGPT (and other LLMs): For scriptwriting, world-building, and creative brainstorming.
+●	RunwayML / Pika: For pioneering work in AI-powered video generation.
+●	AI Audio & Voice Platforms: For creating custom music and voice-overs.
+
+
+Who Should Enroll?
+ 
+This certification is designed for creative professionals and aspiring artists who want to stay at the forefront of technology. It is perfect for:
+●	Illustrators, animators, and concept artists seeking to accelerate their workflows.
+●	Filmmakers and writers looking for new tools for pre-visualization and storytelling.
+●	Designers and content creators who want to harness AI for unique visuals.
+●	Anyone curious about the future of art and technology. [Button: Download Course Brochure] [Button: Speak to an Advisor] Infrastructure, Gallery, Contact US
